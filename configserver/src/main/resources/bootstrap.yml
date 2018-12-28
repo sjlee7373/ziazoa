@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/sjlee7373/ ## CHANGE THIS TO YOUR REPOSITORY
+          uri: https://github.com/sjlee7373/ziazoa.git

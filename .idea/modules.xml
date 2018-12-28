@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cli_controller/cli_controller.iml" filepath="$PROJECT_DIR$/cli_controller/cli_controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/main-controller.iml" filepath="$PROJECT_DIR$/configserver/main-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ziazoa.iml" filepath="$PROJECT_DIR$/ziazoa.iml" />
+    </modules>
+  </component>
+</project>

@@ -21,7 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/mainController/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/mainController/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/mainController/src/test/java" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/mainController/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
